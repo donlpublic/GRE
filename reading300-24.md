@@ -67,4 +67,4 @@ D A theory is shown to be superior to its chief rival.
 
 E Similar arguments are shown to lead to different conclusions.
 
-选择A，关键还是要出现质疑这个词。干扰项主要是B和C，B中的compatible跟文章完全不符；C迷惑性很强，advanced, criticized, and then revised，看似很符合文章的三段，第一段里有比较，第二段里有批判，但是revised一词决定这个选项没法选
+选择A，关键还是要出现质疑这个词。干扰项主要是B和C，B中的compatible跟文章完全不符；C迷惑性很强，advanced, criticized, and then revised，看似很符合文章的三段，第一段里有比较，第二段里有批判，但是revised一词决定这个选项没法选。A选项很难说完美，但是也没有更好的了。
